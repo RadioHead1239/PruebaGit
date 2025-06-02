@@ -12,6 +12,7 @@ namespace PruebaGit
         void mensaje()
         {
             Console.WriteLine("ola");
+            Console.WriteLine("Aqui estuvo marco.");
         }
     }
 }
